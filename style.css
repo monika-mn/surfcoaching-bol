@@ -1,0 +1,16 @@
+* {
+    padding 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: rgb(225,225,225);
+}
+/* ------- Temporary styles for structural html ---------- */
+
+html {
+    border: none;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+
+}
