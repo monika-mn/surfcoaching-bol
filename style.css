@@ -18,6 +18,22 @@ html {
 body {
     border: none;
     font-family: 'Red Hat Display', sans-serif;
-    
-
 }
+
+/* Image styles */
+
+.bg-image {
+    background-image: url('images/surfcoaching-bol5.jpg');
+    background-size: cover;
+    min-height: 100vh;
+}
+
+/* Background Images */
+
+.bg-wave {
+    background-image: url('/images/surfcoaching-bol4.jpg')
+}
+
+/* Universal styles & utility classes */
+
+
