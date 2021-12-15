@@ -36,6 +36,10 @@ html {
     background-image: url('/images/surfcoaching-bol7.jpg');
     background-position: 50% 60%;
 }
+.bg-surferdude {
+    background-image: url('/images/surfcoaching-bol4.jpg');
+    background-position: 50% 50%;
+}
 
 /*--Universal styles & utility classes */
 body {
