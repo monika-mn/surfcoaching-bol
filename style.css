@@ -70,7 +70,7 @@ h2 {
 
 h3 { 
     line-height: 1;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
 }
 
 p {
@@ -126,7 +126,8 @@ a:hover { color: #A3CB38; }
 
 header h3 {
     font-size: 5.5rem;
-    line-height: 1.2;
+    line-height: 1;
+    margin-bottom: 0;
 }
 
 /* Icon Grid */
