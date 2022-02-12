@@ -92,7 +92,7 @@ a {
     text-decoration: none;
 }
 
-a:hover { color: #A3CB38; }
+footer a:hover { color: #A3CB38; }
 
 .featured-text { color:#A3CB38; }
 .blue-text     { color: #2f4858;}
