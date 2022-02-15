@@ -67,7 +67,7 @@ body {
 .tall-90  { min-height: 90vh;  }
 .tall-100 { min-height: 100vh; }
 
-.col-4 { flex-basis: 70%;}
+.align-items { align-items: flex-start;}
 
 /* Typography Styles */
 h2 {
