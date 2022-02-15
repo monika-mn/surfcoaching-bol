@@ -137,7 +137,7 @@ header a {
   }
   
 header a:hover {
-    color: #A3CB38;
+    color: white;
   }
   
 .emphasis-button {
@@ -161,7 +161,7 @@ header a:hover {
   
 .logo-h1 {
     font-size: 1.5rem;
-    color: white;
+    color: #A3CB38;
   }
   
 .logo {
